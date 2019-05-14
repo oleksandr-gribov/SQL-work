@@ -6,3 +6,5 @@ Select assignment from CSCI B-461, Database Concepts class
 - Query Optimization 
 - Aggregate functions 
 - Union functions
+- Relational Algebra to SQL
+- JOIN operators
